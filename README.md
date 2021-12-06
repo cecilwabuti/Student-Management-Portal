@@ -1,3 +1,8 @@
 # Student-Management-Portal
 Student Management Portal with C#
-by Techteam2021
+
+This Project is under Development 
+Cecil lubale
+Nicholas Kiplimo
+
+
